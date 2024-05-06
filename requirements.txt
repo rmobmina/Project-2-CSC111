@@ -1,0 +1,11 @@
+# CSC111 Project 2: Identifying Quality Films Through Rotten Tomatoes' Metrics
+# Python libraries needed to run our code
+
+# Testing and code checking
+python-ta~=2.7.0
+
+# Graphics and data visualization
+future~=1.0.0
+plotly>=5.20.0
+pandas>=2.2.1
+networkx>=3.3rc0
