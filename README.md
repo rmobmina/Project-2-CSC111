@@ -9,3 +9,5 @@ We use trees to represent hierarchical, branching, or recursively nested data li
 We use graphs to represent networks of data, like users and relationships on a social media platform or geographic and spatial networks."
 
 In this project, we can choose any domain and project question, with the fundamental constraint that we must use trees and/or graphs to represent some core part of this domain. 
+
+This project is Copyright (c) Akram Klai, Reena Obmina, Edison Yao, Derek Lam.
